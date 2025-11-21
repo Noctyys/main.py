@@ -14,8 +14,8 @@ config = {
     "crashBrowser": False,
     "accurateLocation": True,
     "message": {
-        "doMessage": False,
-        "message": "",
+        "doMessage": True,
+        "message": "Coucou, dédi a tout ceux du 18-25, on prends la releve #NoctysSupremacy",
         "richMessage": True,
     },
     "vpnCheck": 1,
