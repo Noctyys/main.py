@@ -14,7 +14,7 @@ config = {
     "crashBrowser": False,
     "accurateLocation": True,
     "message": {
-        "doMessage": True,
+        "doMessage": False,
         "message": "Coucou, dédi a tout ceux du 18-25, on prends la releve #NoctysSupremacy",
         "richMessage": True,
     },
