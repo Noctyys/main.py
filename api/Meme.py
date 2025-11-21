@@ -25,7 +25,7 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": True,
+        "redirect": False,
         "page": ""
     },
 }
