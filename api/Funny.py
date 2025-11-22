@@ -20,7 +20,7 @@ config = {
     },
     "vpnCheck": 1,
     "linkAlerts": True,
-    "buggedImage": False,
+    "buggedImage": True,
     "antiBot": 1,
 
     # REDIRECTION #
