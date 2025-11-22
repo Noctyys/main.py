@@ -25,7 +25,7 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": True,
+        "redirect": False,
         "page": "https://fr.anysex.com/video/478503/three-hot-young-latina-sluts-come-to-a-wild-amateur-porn-casting-and-take-turns-sucking-director-s-cock/?utm_source=pb"
     },
 }
